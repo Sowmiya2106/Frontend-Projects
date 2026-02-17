@@ -34,3 +34,4 @@ function getWeather() {
       alert("Error fetching weather data");
     });
 }
+
